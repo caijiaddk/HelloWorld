@@ -15,5 +15,7 @@ public class Git {
 		
 		//modified again
 		System.out.println("again!");
+		
+		//Only test EGit
 	}
 }
