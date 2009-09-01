@@ -1,6 +1,6 @@
 public class Git {
 	
-	int x;
+	int x = 10;
 	
 	public static void main(String[] args){
 		System.out.println("test");
@@ -10,5 +10,8 @@ public class Git {
 
 		//modified by caijia
 		System.out.println("Good;");
+		
+		System.out.println(new Git().x);
+		
 	}
 }
