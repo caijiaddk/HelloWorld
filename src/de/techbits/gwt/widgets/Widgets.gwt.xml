@@ -1,5 +1,0 @@
-
-<module rename-to='starrating'>
-	<inherits name='com.google.gwt.user.User'/>
-		<stylesheet src="starrating/starrating.css" />	
-</module>
